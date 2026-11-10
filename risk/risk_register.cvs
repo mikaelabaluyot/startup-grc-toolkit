@@ -1,0 +1,11 @@
+Risk ID,Risk Description,Asset,Threat,Likelihood,Impact,Inherent Risk,Owner,Treatment,Status
+R1,"Employees reuse passwords, allowing attackers to obtain stolen credentials and gain unauthorized access to company systems.","User Accounts","Credential Theft",4,4,16,"Security Operations","Mitigate","Open"
+R2,"Employees may be targeted by phishing attacks, leading to administrator account compromise and exposure of sensitive user data.","Microsoft Entra ID","Phishing",4,5,20,"Security Operations","Mitigate","Open"
+R3,"Unpatched application vulnerabilities may be exploited to gain unauthorized access to user wellbeing data.","Application Platform","Software Exploitation",3,5,15,"Engineering","Mitigate","Open"
+R4,"GitHub repositories may be compromised, resulting in source code theft and development disruption.","GitHub Repositories","Account Compromise",3,4,12,"Engineering","Mitigate","Open"
+R5,"Database security settings may be misconfigured, exposing sensitive user data to unauthorized parties.","Azure Production Database","Human Error",3,5,15,"Platform Team","Mitigate","Open"
+R6,"Failed software deployments may cause application downtime and prevent users from submitting wellbeing logs.","Application Platform","Change Management Failure",5,3,15,"DevOps","Mitigate","Open"
+R7,"A compromised privileged account may enable ransomware deployment within the production environment.","Production Environment","Ransomware",3,5,15,"Security Operations","Mitigate","Open"
+R8,"Failure to meet GDPR obligations may result in regulatory penalties, investigations, and reputational damage.","Personal Data","Regulatory Non-Compliance",3,5,15,"Compliance","Mitigate","Open"
+R9,"Compromise or outage of a third-party service may impact business operations and service delivery.","Cloud Services","Vendor Failure",3,4,12,"Management","Mitigate","Open"
+R10,"Authorized employees may misuse access privileges, resulting in unauthorized access to sensitive information.","Sensitive Data","Insider Threat",2,5,10,"Security Operations","Mitigate","Open"
