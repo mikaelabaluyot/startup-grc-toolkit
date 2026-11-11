@@ -1,70 +1,50 @@
-# startup-grc-toolkit
+# Startup Security Governance Toolkit: A GRC Case Study
 
 ## Overview
+This repository contains a Governance, Risk and Compliance (GRC) case study for a fictional digital wellbeing startup, **ReWire.U**.
 
-Startup Security toolkit: A GRC Case Study
-
-This case is made to demonstrate the development and implementation of a Governance, Risk and Compliance (GRC) program for a fictional digital wellbeing startup, ReWire.U, operating in Denmark and the Nordic region.
-The organization provides a burnout and wellbeing tracking app that processes sensitive personal information and therefore requires a structured approach to cybersecurity governance, risk management, privacy compliance, and security operations
-
-This repository was created as a portfolio project to demonstrate practical cybersecurity governance and GRC capabilities. 
-
+The project focuses on cybersecurity risk assessment, risk treatment planning, security governance, and GDPR compliance considerations for an early-stage SaaS organization.
 
 ---
-
 ## Objectives
-- Identify critical business assets
-- Assess cybersecurity risks
+
+- Identify cybersecurity risks
+- Assess risk impact and likelihood
 - Develop risk treatment plans
-- Establish governance processes
-- Assess GDPR compliance requirements 
-- Create a security improvement roadmap
+- Mapping risks to security controls
+- Assess GDPR requirements
+- Create basic security governance
 
 ---
-## Technology Environment
 
-- Microsoft Azure
-- Microsoft Entra ID
-- GitHub
-- Microsoft 365
-- Microsoft Teams
-- Azure Monitor
-- Jira
-- Zendesk
+## Key Deliverables
 
-## Frameworks Referenced
+- Risk Register
+- Risk Treatment Plan
+- Control Mapping
+- Information Security Policy
+- GDPR Gap Assessment
 
+---
+
+## Frameworks
 - GDPR
 - NIST Cybersecurity Framework (CSF) 2.0
 - ISO/IEC 27001:2022
-- ISO/IEC 27002:2022
-- CIS Critical Security Controls v8
-- OWASP Top 10
+- CIS Controls v8
 
----
+----
 
 ## Repository Structure
 
-
+```text
 /governance
 /risk
 /compliance
 /controls
-/roadmap
-/architecture
-/report
+```
 
 ---
-
-## Skills Demonstrated
-
-- Governance, Risk & Compliance (GRC)
-- Risk Assessment & Treatment
-- Security Control Mapping
-- GDPR Compliance
-- Security Governance
-- Security Metrics & Reporting
-- Incident Response Planning
 
 ## Disclaimer
 
